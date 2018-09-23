@@ -15,6 +15,7 @@ public class OreConfig extends PluginConfig {
     @Setting("is_default")
     public boolean IS_DEFAULT = true;
 
+    @Setting("minute_interval")
     public long INTERVAL = 5;
 
     /*
